@@ -11,6 +11,12 @@ app.get("/", (req, res) => {
   res.send(courses);
 });
 
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const course = courses.find((details) => details.id == id);
+  res.send(course);
+});
+
 app.listen(port, () => {
   console.log("dragon news server running port", port);
 });
