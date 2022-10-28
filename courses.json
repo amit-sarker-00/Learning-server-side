@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": " English",
-    "img": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "img": "https://media.istockphoto.com/vectors/english-vector-id1047570732?k=20&m=1047570732&s=612x612&w=0&h=fcgzlrNrq_hws1ykrLSpyBVZoIGr54EUueD6WAEVW0c=",
     "details": "The English language is an Indo-European language in the West Germanic language group. Modern English is widely considered to be the lingua franca of the world and is the standard language in a wide variety of fields, including computer coding, international business, and higher education.",
     "review": "5"
   },
@@ -51,7 +51,7 @@
   {
     "id": "8",
     "name": "All About Software Engineer",
-    "img": "https://images.unsplash.com/photo-1597239450996-ea7c2c564412?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "img": "https://www.springboard.com/blog/wp-content/uploads/2020/07/how-to-become-a-software-engineer-2022-career-guide.jpg",
     "details": "What is software engineering? Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.",
     "review": "5"
   },
